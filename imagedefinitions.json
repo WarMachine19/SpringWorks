@@ -1,6 +1,6 @@
 [
   {
-    "name": "node",
+    "name": "Node",
     "imageUri": "658583722810.dkr.ecr.ap-south-1.amazonaws.com/springworks:1.0"
   }
 ]
